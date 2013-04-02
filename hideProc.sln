@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hideProc", "hideProc\hideProc.vcproj", "{0C486097-959C-4744-9317-6B9BA074170F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "injector", "injector\injector.vcproj", "{E4CBCD78-ED15-4478-B334-5826E990A8E7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Detours", "Detours\Detours.vcproj", "{A6762930-FBD3-4A3B-BD8F-F514EAC8CD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release_Build|Win32 = Release_Build|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C486097-959C-4744-9317-6B9BA074170F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C486097-959C-4744-9317-6B9BA074170F}.Debug|Win32.Build.0 = Debug|Win32
+		{0C486097-959C-4744-9317-6B9BA074170F}.Release_Build|Win32.ActiveCfg = Release|Win32
+		{0C486097-959C-4744-9317-6B9BA074170F}.Release_Build|Win32.Build.0 = Release|Win32
+		{0C486097-959C-4744-9317-6B9BA074170F}.Release|Win32.ActiveCfg = Release|Win32
+		{0C486097-959C-4744-9317-6B9BA074170F}.Release|Win32.Build.0 = Release|Win32
+		{E4CBCD78-ED15-4478-B334-5826E990A8E7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4CBCD78-ED15-4478-B334-5826E990A8E7}.Debug|Win32.Build.0 = Debug|Win32
+		{E4CBCD78-ED15-4478-B334-5826E990A8E7}.Release_Build|Win32.ActiveCfg = Release|Win32
+		{E4CBCD78-ED15-4478-B334-5826E990A8E7}.Release_Build|Win32.Build.0 = Release|Win32
+		{E4CBCD78-ED15-4478-B334-5826E990A8E7}.Release|Win32.ActiveCfg = Release|Win32
+		{E4CBCD78-ED15-4478-B334-5826E990A8E7}.Release|Win32.Build.0 = Release|Win32
+		{A6762930-FBD3-4A3B-BD8F-F514EAC8CD44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6762930-FBD3-4A3B-BD8F-F514EAC8CD44}.Debug|Win32.Build.0 = Debug|Win32
+		{A6762930-FBD3-4A3B-BD8F-F514EAC8CD44}.Release_Build|Win32.ActiveCfg = Release_Build|Win32
+		{A6762930-FBD3-4A3B-BD8F-F514EAC8CD44}.Release_Build|Win32.Build.0 = Release_Build|Win32
+		{A6762930-FBD3-4A3B-BD8F-F514EAC8CD44}.Release|Win32.ActiveCfg = Release|Win32
+		{A6762930-FBD3-4A3B-BD8F-F514EAC8CD44}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
